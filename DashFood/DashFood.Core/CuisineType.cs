@@ -1,7 +1,7 @@
 ﻿namespace DashFood.Core
 {
-        public enum CousineType
-        {
+        public enum CuisineType
+    {
             None,
             American,
             Mexican,

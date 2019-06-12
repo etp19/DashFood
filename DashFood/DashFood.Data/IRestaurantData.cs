@@ -17,12 +17,12 @@ namespace DashFood.Data
         {
             restaurants = new List<Restaurant>()
             {
-                new Restaurant { Id=1, Name="Scott's Pizza", Location="Maryland", Cousine=CousineType.Italian},
-                new Restaurant { Id=2, Name="De Lucas", Location="Lansing", Cousine=CousineType.Italian},
-                new Restaurant { Id=3, Name="Texas RoadHouse", Location="Novi", Cousine=CousineType.American},
-                new Restaurant { Id=4, Name="India Place", Location="Detroit", Cousine=CousineType.Indian},
-                new Restaurant { Id=5, Name="Cancun", Location="Lansing", Cousine=CousineType.Mexican},
-                new Restaurant { Id=6, Name="Five Guys", Location="Royal Oak", Cousine=CousineType.American},
+                new Restaurant { Id=1, Name="Scott's Pizza", Location="Maryland", Cousine=CuisineType.Italian},
+                new Restaurant { Id=2, Name="De Lucas", Location="Lansing", Cousine=CuisineType.Italian},
+                new Restaurant { Id=3, Name="Texas RoadHouse", Location="Novi", Cousine=CuisineType.American},
+                new Restaurant { Id=4, Name="India Place", Location="Detroit", Cousine=CuisineType.Indian},
+                new Restaurant { Id=5, Name="Cancun", Location="Lansing", Cousine=CuisineType.Mexican},
+                new Restaurant { Id=6, Name="Five Guys", Location="Royal Oak", Cousine=CuisineType.American},
             };
         }
 
